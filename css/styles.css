@@ -51,7 +51,7 @@ a {
 }
 
 .skill-row {
-  width: 50%;
+  max-width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
@@ -60,19 +60,19 @@ a {
 .coding-image {
   width: 30%;
   float: left;
-  margin-right: 50px;
+  margin-right: 20px;
 }
 
 .code-review {
   width: 30%;
   float: right;
-  margin-left: 50px;
+  margin-left: 20px;
 }
 
 .ending-paragraph {
 
-  margin-left: 250px;
-  margin-right: 250px;
+  margin-left: 125px;
+  margin-right: 125px;
 
 }
 
