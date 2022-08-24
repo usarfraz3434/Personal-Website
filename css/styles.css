@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 5rem;
   margin: 50px auto 0 auto;
   font-family: "Sacramento", cursive;
   color: #66bfbf;
@@ -13,14 +13,14 @@ h1 {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 3rem;
   font-family: "Montserrat", sans-serif;
   color: #66bfbf;
   font-weight: normal;
 }
 
 p {
-  font-size: 0.7rem;
+  font-size: 1rem;
   margin: auto;
 }
 
@@ -124,7 +124,7 @@ a {
   border-radius: 8px;
   font-family: Arial;
   color: #ffffff;
-  font-size: 10px;
+  font-size: 11px;
   padding: 10px 20px 10px 20px;
   margin-bottom: 15px;
   text-decoration: none;
@@ -154,7 +154,7 @@ a {
   border-radius: 8px;
   font-family: Arial;
   color: #ffffff;
-  font-size: 10px;
+  font-size: 11px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   margin-top: 10px;
@@ -184,7 +184,7 @@ a {
   border-radius: 8px;
   font-family: Arial;
   color: #ffffff;
-  font-size: 10px;
+  font-size: 11px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   margin-top: 10px;
@@ -215,7 +215,7 @@ a {
   border-radius: 8px;
   font-family: Arial;
   color: #ffffff;
-  font-size: 10px;
+  font-size: 11px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   margin-top: 10px;
