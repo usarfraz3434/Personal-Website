@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 6rem;
   margin: 50px auto 0 auto;
   font-family: "Sacramento", cursive;
   color: #66bfbf;
@@ -13,14 +13,14 @@ h1 {
 }
 
 h2 {
-  font-size: 3rem;
+  font-size: 4rem;
   font-family: "Montserrat", sans-serif;
   color: #66bfbf;
   font-weight: normal;
 }
 
 p {
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin: auto;
 }
 
